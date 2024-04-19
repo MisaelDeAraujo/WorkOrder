@@ -8,6 +8,7 @@ Criar ordem de serviço
 * [**`Java 17`**](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 * [**`Spring Boot 3`**](https://spring.io/projects/spring-boot)
 * [**`Spring Data JPA`**](https://docs.oracle.com/javaee/7/api/javax/persistence/package-summary.html)
+* [**`RestTemplate`**](https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/web/client/RestTemplate.html)
 * [**`H2 Database`**](https://www.h2database.com/html/main.html)
 * [**`Lombok `**](https://projectlombok.org/)
 * [**`Swagger `**](https://swagger.io/)
